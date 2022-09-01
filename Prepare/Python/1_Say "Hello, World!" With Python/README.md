@@ -1,9 +1,9 @@
-# Say "Hello, World!" With Python
+﻿# Say "Hello, World!" With Python
 
-![A_Personalized_Echo1.png](https://github.com/yildizzeynep/hackkerrank/blob/main/LINUX-SHELL/Bash/3_A-Personalized-Echo/img/A_Personalized_Echo1.png)
+![python1.png](https://github.com/yildizzeynep/hackkerrank/blob/main/Prepare/Python/1_Say%20%22Hello%2C%20World!%22%20With%20Python/img/python1.png)
 
 ---
 
 "print" function is used to print anything.
 
-![A_Personalized_Echo1.png](https://github.com/yildizzeynep/hackkerrank/blob/main/LINUX-SHELL/Bash/3_A-Personalized-Echo/img/A_Personalized_Echo1.png)
+![python1.2.png](https://github.com/yildizzeynep/hackkerrank/blob/main/Prepare/Python/1_Say%20%22Hello%2C%20World!%22%20With%20Python/img/python2.png)
